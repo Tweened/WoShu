@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">我书</string>
+    <string name="scan">扫描</string>
+    <string name="like">收藏</string>
+    <string name="loading">正在加载，请稍后~</string>
+    <string name="empty">空荡荡的书架~</string>
+</resources>
